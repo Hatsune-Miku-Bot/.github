@@ -12,9 +12,9 @@
 ***
 
 ### Minato Namikaze Bot Docs Help
-* [Commands List](https://dhruvacube.github.io/yondaime-hokage/help)
-* [Privacy Policy](https://dhruvacube.github.io/yondaime-hokage/privacy_policy)
-* [Widgets](https://dhruvacube.github.io/yondaime-hokage/widgets)
+* [Commands List](https://the-4th-hokage.github.io/help)
+* [Privacy Policy](https://the-4th-hokage.github.io/privacy_policy)
+* [Widgets](https://the-4th-hokage.github.io/widgets)
 * [Statcord](https://statcord.com/bot/779559821162315787)
 * [Status Page](https://minatonamikaze.statuspage.io/)
 
