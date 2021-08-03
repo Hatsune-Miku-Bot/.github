@@ -1,23 +1,13 @@
 # Minato Namikaze
 ###### **Yondaime Hokage**  
 
-[![Discord Bots](https://top.gg/api/widget/status/779559821162315787.svg)](https://top.gg/bot/779559821162315787) [![Discord Bots](https://botlist.space/bot/779559821162315787/badge?property=prefix&style=plastic&color=informational)](https://top.gg/bot/779559821162315787)
+[![Discord Bots](https://top.gg/api/widget/status/779559821162315787.svg)](https://top.gg/bot/779559821162315787) 
 
-![Minato Namikaze](https://i.imgur.com/WOCK4g1.jpg "Minato Namikaze")
-
-[![Discord Bots](https://top.gg/api/widget/status/779559821162315787.svg)](https://top.gg/bot/779559821162315787) [![Discord Bots](https://botlist.space/bot/779559821162315787/badge?property=prefix&style=plastic&color=informational)](https://top.gg/bot/779559821162315787)
+![image](https://i.imgur.com/yAVNmov.png)
 
 
-* [Support Server](https://discord.gg/g9zQbjE73K)
-* [TopGG](https://top.gg/bot/779559821162315787)
-* [Discord Bot List](https://discordbotlist.com/bots/minato-namikaze)
-* [BOTLIST](https://botlist.space/bot/779559821162315787)
-* [BOTS FOR DISCORD](https://botsfordiscord.com/bot/779559821162315787)
-* [DISCORD BOATS](https://discord.boats/bot/779559821162315787)
-* [DISCORD LABS](https://bots.discordlabs.org/bot/779559821162315787)
-* [VOID BOTS](https://voidbots.net/bot/779559821162315787/)
-* [BLADEBOTLIST](https://bladebotlist.xyz/bot/779559821162315787 )
-* [FATESLIST](https://fateslist.xyz/bot/779559821162315787)
+[![Discord Bots](https://top.gg/api/widget/status/779559821162315787.svg)](https://top.gg/bot/779559821162315787)
+
 
 ***
 
@@ -34,17 +24,23 @@
 * [TopGG](https://top.gg/servers/747480356625711204)
 * [Disboard](https://disboard.org/server/747480356625711204)
 * [Discord Bot List](https://discordbotlist.com/servers/konohagakure)
-* [DIscord Extreme List](https://discordextremelist.xyz/en-US/servers/747480356625711204)
 
 ***
 
 ### Widgets
 
-[![Discord Bots](https://top.gg/api/widget/779559821162315787.svg)](https://top.gg/bot/779559821162315787)
 
-[![Bots for Discord](https://botsfordiscord.com/api/bot/779559821162315787/widget)](https://botsfordiscord.com/bots/779559821162315787)  [![Discord Boats](https://discord.boats/api/widget/779559821162315787)](https://discord.boats/bot/779559821162315787)
+BotList Name     | Widgets       | Voting Links
+------------     | ------------- | ------------- 
+Discord Bot List | <a href="https://discordbotlist.com/bots/779559821162315787"><img src="https://discordbotlist.com/api/v1/bots/779559821162315787/widget"></a> | [Click Here](https://discordbotlist.com/bots/minato-namikaze/upvote)
+Top.GG           | [![Discord Bots](https://top.gg/api/widget/779559821162315787.svg)](https://top.gg/bot/779559821162315787) | [Click Here](https://top.gg/bot/779559821162315787/vote)
+Bots For Discord | [![Bots for Discord](https://botsfordiscord.com/api/bot/779559821162315787/widget)](https://botsfordiscord.com/bots/779559821162315787)
+Discord Boats    | [![Discord Boats](https://discord.boats/api/widget/779559821162315787)](https://discord.boats/bot/779559821162315787)
+Discordlist Space| [![Minato Namikaze's Widget](https://api.discordlist.space/v2/bots/779559821162315787/widget?background=7289DA&radius=10 "Minato Namikaze's Widget")](https://discordlist.space/bot/779559821162315787/)
+Void Bots        | <a href="https://voidbots.net/bot/779559821162315787"><img src="https://voidbots.net/api/embed/779559821162315787?theme=dark" width="300" /></a>
+Fates List       | <iframe src="https://fateslist.xyz/api/bots/779559821162315787/widget?format=html" width="325" height="200" loading="lazy"><</iframe>
 
-[![Minato Namikaze's Widget](https://api.botlist.space/widget/779559821162315787/2 "Minato Namikaze's Widget")](https://botlist.space/bot/779559821162315787?utm_source=bls&utm_medium=widget&utm_campaign=779559821162315787)
+
 
 ***
 
