@@ -1,13 +1,13 @@
 site_name: Minato Namikaze
 theme:
     name: material
+    logo: assets/images/logo.png
+    favicon: assets/images/favicon.ico
     palette:
-        - media: "(prefers-color-scheme: light)"
         - scheme: default
           toggle:
             icon: material/eye
             name: Switch to dark mode
-        - media: "(prefers-color-scheme: dark)"
         - scheme: slate
           toggle:
             icon: material/eye-outline
@@ -19,6 +19,7 @@ theme:
         - search.share
         - navigation.instant
         - navigation.tracking
+        - navigation.indexes
         - navigation.tabs
         - navigation.tabs.sticky
         - navigation.sections
@@ -45,13 +46,25 @@ site_author: Dhruva Shaw
 repo_name: Source Code
 
 markdown_extensions:
+  - attr_list
   - toc:
       permalink: true
-      toc_depth: 3
+      toc_depth: 2
   - pymdownx.snippets
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
 
 extra:
   version:
     provider: mike
     default: stable
+  analytics:
+    provider: google
+    property: G-K0T92G87GZ
+
+nav:
+    - Home: 'index.md'
+    - Privacy Policy: 'privacy_policy.md'
+
 
