@@ -25,7 +25,7 @@ hide:
 
 ## Get Started
 
-[Invite Now :fontawesome-solid-link:](#){ .md-button } [Get Started :fontawesome-solid-play-circle:](#){ .md-button }
+[Invite Now :fontawesome-solid-link:](https://discord.com/oauth2/authorize?client_id=779559821162315787&permissions=8&redirect_uri=https%3A%2F%2Fminatonamikaze-invites.herokuapp.com%2Finvite&scope=applications.commands%20bot&response_type=code&state=cube12345%3F%2FBot%20Website){ .md-button }{this.setAttribute("target", "_blank");} [Get Started :fontawesome-solid-play-circle:](#){ .md-button }
 
 ## Widgets
 
