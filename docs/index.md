@@ -45,3 +45,13 @@ Fates List       | <iframe src="https://fateslist.xyz/api/bots/77955982116231578
 ***
 
 ![Namikaze Family](https://media.discordapp.net/attachments/777918705098686465/813086521481232414/image0.jpg)
+
+<script src="https://xnqtmjy63llr.statuspage.io/embed/script.js"></script>
+<script src='https://cdn.jsdelivr.net/npm/@widgetbot/crate@3' async defer>
+    new Crate({
+        server: '747480356625711204', // Konohagakure
+        channel: '762729342768775198', // #🤖│bot-commands・🤖
+        location: ['bottom', 'left'],
+        shard: 'https://emerald.widgetbot.io'
+    })
+</script>
