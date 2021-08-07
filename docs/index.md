@@ -25,7 +25,7 @@ hide:
 
 ## Get Started
 
-[Invite Now :fontawesome-solid-link:](https://discord.com/oauth2/authorize?client_id=779559821162315787&permissions=8&redirect_uri=https%3A%2F%2Fminatonamikaze-invites.herokuapp.com%2Finvite&scope=applications.commands%20bot&response_type=code&state=cube12345%3F%2FBot%20Website){ .md-button }{this.setAttribute("target", "_blank");} [Get Started :fontawesome-solid-play-circle:](#){ .md-button }
+[Invite Now :fontawesome-solid-link:](https://discord.com/oauth2/authorize?client_id=779559821162315787&permissions=8&redirect_uri=https%3A%2F%2Fminatonamikaze-invites.herokuapp.com%2Finvite&scope=applications.commands%20bot&response_type=code&state=cube12345%3F%2FBot%20Website){ .md-button } [Get Started :fontawesome-solid-play-circle:](#){ .md-button }
 
 ## Widgets
 
@@ -38,7 +38,7 @@ Bots For Discord | <a href="https://discords.com/bots/bots/779559821162315787" t
 Discord Boats    | <a href="https://discord.boats/bot/779559821162315787" target="_blank"><img src="https://discord.boats/api/widget/779559821162315787" title="Visit Minato Namikaze listed on Discord Boats!" alt="Minato Namikaze's Widget Failed to Load" /></a>  | [Click Here](https://discord.boats/bot/779559821162315787)
 Discordlist Space | <a href="https://discordlist.space/bot/779559821162315787" target="_blank"><img src="https://api.discordlist.space/v2/bots/779559821162315787/widget?background=7289DA&radius=6" title="Visit Minato Namikaze listed on Discordlist Space!" alt="Minato Namikaze's Widget Failed to Load" /></a> | [Click Here](https://discordlist.space/bot/779559821162315787/upvote)
 Void Bots        | <a href="https://voidbots.net/bot/779559821162315787" target="_blank"><img src="https://voidbots.net/api/embed/779559821162315787?theme=dark" width="300" /></a> | [Click Here](https://voidbots.net/bot/779559821162315787/vote)
-Fates List       | <iframe src="https://fateslist.xyz/api/bots/779559821162315787/widget?format=html" width="325" height="200" loading="lazy"><</iframe>
+Fates List       | <a href="https://fateslist.xyz/bot/779559821162315787" target="_blank"><img src="https://fateslist.xyz/api/bots/779559821162315787/widget?format=png" /></a> | [Click Here](https://fateslist.xyz/bot/779559821162315787/vote)
 
 
 
