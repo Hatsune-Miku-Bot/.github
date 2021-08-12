@@ -1,6 +1,7 @@
 site_name: Minato Namikaze
 theme:
     name: material
+    custom_dir: overrides
     logo: assets/images/logo.png
     favicon: assets/images/favicon.ico
     palette:
@@ -30,6 +31,11 @@ theme:
     icon:
         repo: fontawesome/brands/github
 plugins:
+    - minify:
+          minify_html: true
+          minify_js: true
+          htmlmin_opts:
+              remove_comments: true
     - git-revision-date:
         enabled_if_env: CI
     - search:
