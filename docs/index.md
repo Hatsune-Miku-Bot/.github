@@ -53,6 +53,5 @@ Infinity Botlist       | <a href="https://botlist.site/bots/779559821162315787" 
         server: '747480356625711204', // Konohagakure
         channel: '762729342768775198', // #🤖│bot-commands・🤖
         location: ['bottom', 'left'],
-        shard: 'https://emerald.widgetbot.io'
     })
 </script>
