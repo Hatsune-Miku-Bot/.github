@@ -39,6 +39,7 @@ Discord Boats    | <a href="https://discord.boats/bot/779559821162315787" target
 Discordlist Space | <a href="https://discordlist.space/bot/779559821162315787" target="_blank"><img src="https://api.discordlist.space/v2/bots/779559821162315787/widget?background=7289DA&radius=6" title="Visit Minato Namikaze listed on Discordlist Space!" alt="Minato Namikaze's Widget Failed to Load" /></a> | [Click Here](https://discordlist.space/bot/779559821162315787/upvote)
 Void Bots        | <a href="https://voidbots.net/bot/779559821162315787" target="_blank"><img src="https://voidbots.net/api/embed/779559821162315787?theme=dark" width="300" /></a> | [Click Here](https://voidbots.net/bot/779559821162315787/vote)
 Fates List       | <a href="https://fateslist.xyz/bot/779559821162315787" target="_blank"><img src="https://fateslist.xyz/api/bots/779559821162315787/widget?format=png" /></a> | [Click Here](https://fateslist.xyz/bot/779559821162315787/vote)
+Infinity Botlist       | <a href="https://botlist.site/bots/779559821162315787" target="_blank"><img src="https://infinitybotlist.com/bots/779559821162315787/widget?size=large" /></a> | [Click Here](https://infinitybotlist.com/bots/779559821162315787/vote)
 
 
 
