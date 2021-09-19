@@ -48,7 +48,7 @@ plugins:
     
 repo_url: https://github.com/The-4th-Hokage/yondaime-hokage
 edit_uri: https://github.com/The-4th-Hokage/The-4th-Hokage.github.io/tree/master/docs
-site_author: Dhruva Shaw
+site_author: Miku Chan
 repo_name: Source Code
 
 markdown_extensions:
@@ -72,5 +72,6 @@ extra:
 nav:
     - Home: 'index.md'
     - Privacy Policy: 'privacy_policy.md'
+    - Partners: 'partners.md'
 
 
